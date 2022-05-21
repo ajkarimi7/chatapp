@@ -1,5 +1,7 @@
 # chatapp
 
+https://chat-app-ajk.herokuapp.com/
+
 I created this simple chat application in order to practice implementing a socket.io connection to node.
 
 Some concepts and languages covered in this application are: HTML, CSS, vanilla JS, Node, Socket.io, and Express.
